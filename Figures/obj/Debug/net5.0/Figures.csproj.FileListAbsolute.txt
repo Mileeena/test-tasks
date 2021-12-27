@@ -1,0 +1,12 @@
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\bin\Debug\net5.0\Figures.deps.json
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\bin\Debug\net5.0\Figures.dll
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\bin\Debug\net5.0\ref\Figures.dll
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\bin\Debug\net5.0\Figures.pdb
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.csproj.AssemblyReference.cache
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.AssemblyInfoInputs.cache
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.AssemblyInfo.cs
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.csproj.CoreCompileInputs.cache
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.dll
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\ref\Figures.dll
+D:\ЗАГРУЗКИ\Резюме\Тестовое MIndBox\Figures\Figures\obj\Debug\net5.0\Figures.pdb
